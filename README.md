@@ -11,11 +11,21 @@
 
 - Machine Learning: Cross-validation, Ensemble Methods, CNN basics, Predictive Modeling
 
-- AI: RAG pipelines, embeddings, web scraping
+- Data Science and AI: RAG pipelines, embeddings, web scraping
 
 - Other Tools: Git/GitHub, Flask, Streamlit, uv for project management
 
 -----
+
+📊 Featured Projects
+
+Facial Emotion Detection
+ – CNN model with Grad-CAM visualization deployed via Flask On RENDER.
+
+RAG Document Q&A App
+ – Multilingual retrieval pipeline using LangChain + embeddings.
+
+ 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m passionate about turning raw data into actionable insights and sharing knowledge through clear documentation
 - 📫 How to reach me @ johnwakaba24@gmail.com

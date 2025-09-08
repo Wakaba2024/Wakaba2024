@@ -1,7 +1,23 @@
-- 👋 Hi, I’m John Wakaba
-- 👀 I’m interested in Data Story_Telling
+ 👋 Hi, I’m John Wakaba
+ 
+ I’m a Data Analyst skilled in SQL, Python, machine learning, and data visualization. I enjoy transforming raw data into actionable insights, building dashboards, and documenting processes to make complex ideas easy to understand. Currently, I’m open to opportunities where I can apply my skills to help organizations make smarter, data-driven decisions.
+
+---------
+🔧 Skills & Tools
+
+- Languages & Libraries: SQL (PostgreSQL), Python (Pandas, NumPy, TensorFlow, LangChain)
+
+- Visualization: Power BI, Excel, Matplotlib, Dashboards
+
+- Machine Learning: Cross-validation, Ensemble Methods, CNN basics, Predictive Modeling
+
+- AI: RAG pipelines, embeddings, web scraping
+
+- Other Tools: Git/GitHub, Flask, Streamlit, uv for project management
+
+-----
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 💞️ I’m passionate about turning raw data into actionable insights and sharing knowledge through clear documentation
 - 📫 How to reach me @ johnwakaba24@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Much like my love for traveling the world, I explore data from every angle—whether it's uncovering hidden patterns in datasets or discovering new destinations. 

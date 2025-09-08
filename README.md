@@ -19,7 +19,7 @@
 
 📊 Featured Projects
 
-Facial Emotion Detection
+[Facial Emotion Detection](https://github.com/Wakaba2024/Facial-Emotion-Recognition-for-Mental-Wellness-Monitoring)
  – CNN model with Grad-CAM visualization deployed via Flask On RENDER.
 
 RAG Document Q&A App

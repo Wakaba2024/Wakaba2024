@@ -22,14 +22,17 @@
 [Facial Emotion Detection](https://github.com/Wakaba2024/Facial-Emotion-Recognition-for-Mental-Wellness-Monitoring)
  – CNN model with Grad-CAM visualization deployed via Flask On RENDER.
 
-RAG Document Q&A App
+[RAG Document Q&A App](https://github.com/Wakaba2024/A-Multilingual-local-RAG-chatbot-using-OLLAMA)
  – Multilingual retrieval pipeline using LangChain + embeddings.
 
  
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m passionate about turning raw data into actionable insights and sharing knowledge through clear documentation
-- 📫 How to reach me @ johnwakaba24@gmail.com
-- 😄 Pronouns: He
+ 📊 GitHub Stats
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wakaba2024&layout=compact&theme=tokyonight)
+
+
+
 - ⚡ Fun fact: Much like my love for traveling the world, I explore data from every angle—whether it's uncovering hidden patterns in datasets or discovering new destinations. 
 
 <!---

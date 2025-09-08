@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wakaba2024
+- 👋 Hi, I’m John Wakaba
 - 👀 I’m interested in Data Story_Telling
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
